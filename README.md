@@ -1,6 +1,6 @@
 # uploadfolders
 
-> 基于 vue.js 和 elementUI 的批量上传文件夹组件
+> 基于 vue.js 和 elementUI 的拖拽批量上传文件夹组件，查看效果时需要起一个服务
 
 ## Build Setup
 
