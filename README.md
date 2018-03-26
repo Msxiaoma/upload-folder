@@ -1,6 +1,6 @@
 # uploadfolders
 
-> A Vue.js project
+> 基于 vue.js 和 elementUI 的批量上传文件夹组件
 
 ## Build Setup
 
